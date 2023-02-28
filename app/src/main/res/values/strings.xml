@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Zeny</string>
+    <string name="exitdialog_title">종료</string>
+    <string name="exitdialog_comment">종료하시겠 습니까?</string>
+    <string name="confirm">확인</string>
+    <string name="alert">알림</string>
+    <string name="yes_btn">예</string>
+    <string name="no_btn">아니요</string>
+    <string name="progress_filedown">파일 다운로드 중입니다.</string>
+    <string name="file_notfound">파일을 찾을 수 없습니다.</string>
+    <string name="file_exception">파일 처리중 문제가 발생하였습니다.\n다시 시도하시겠습니까?</string>
+    <string name="check_filever">파일 버전 확인중</string>
+    <string name="updatedialog_title">업데이트</string>
+    <string name="updatedialog_comment01">새로운 버전으로 설치 하시겠습니까?</string>
+</resources>
